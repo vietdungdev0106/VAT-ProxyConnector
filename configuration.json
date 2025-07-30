@@ -1,5 +1,5 @@
 {
-  "current_version", 1
+  "current_version": 1,
   "check_ip_url": "http://ip-api.com/json/?fields=country,countryCode,region,regionName,city,lat,lon,query,proxy,mobile,timezone,isp,asname",
   "advertisement": "Giải pháp toàn diện cho boxphone, phonefarm:\n  - Website: https://phonecloud.one\n  - Youtube: https://youtu.be/JQIJlzECjXI?si=6aqAHx6VFFgfHnxZ"
 }
